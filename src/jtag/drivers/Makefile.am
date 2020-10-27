@@ -174,6 +174,8 @@ DRIVERHEADERS = \
 	%D%/libusb0_common.h \
 	%D%/libusb1_common.h \
 	%D%/libusb_common.h \
+	%D%/libftdi_helper.h \
+	%D%/libusb_helper.h \
 	%D%/minidriver_imp.h \
 	%D%/mpsse.h \
 	%D%/rlink.h \
